@@ -13,17 +13,14 @@ Ready In: 20 m
 Recipe by:
 
 
-!!! This below will be used for brancing lesson
+!!! This below will be used for branching lesson
 Additional Text for Branching
 Commit 1
 Great Wine Pairings
 1. Sauvignon Blanc
-2. Cianti Classico
+2. Chianti Classic
 
 
 Commit 2
-3. Pinot Grigio
+3. Pinot Grigo
 4. Pinot Noir
-
-
-

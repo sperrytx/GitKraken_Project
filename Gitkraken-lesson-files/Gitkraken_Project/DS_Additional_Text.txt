@@ -1,7 +1,7 @@
 Additional text for Dessert
 
 Description:
-This will become your new favorit dessert.
+This will become your new favorite dessert.
 
 Servings: 6
 
@@ -12,14 +12,11 @@ Ready In: 3 h 30 m
 Recipe by:
 
 
-!!! This below will be used for brancing lesson
+!!! This below will be used for branching lesson
 Additional Text for Branching
 Commit 1
 Add chocolate on top.
 
 
 Commit 2
-Decor with strawberry and whipped cream decoration.
-
-
-
+Decorate with strawberry and whipped cream decoration.
